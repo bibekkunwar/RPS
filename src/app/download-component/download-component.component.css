@@ -1,0 +1,27 @@
+.download-links{
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.download-links button{
+  border-radius: 10px;
+  background-color: aquamarine;
+}
+
+.download-links button:hover{
+  background-color: aqua;
+}
+.qr-code{
+  padding: 30px;
+}
+
+.img-download{
+  height: 60px;
+  width: 150px;
+}
+.download-head{
+  font-size: 30px;
+  font-weight: 700;
+}

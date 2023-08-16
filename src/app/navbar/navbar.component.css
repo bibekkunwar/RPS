@@ -1,0 +1,17 @@
+
+.container{
+  padding-top: 20px;
+}
+
+.active {
+  background: rgb(103, 103, 199);
+}
+.nav-link button{
+  border-radius: 10px !important;
+  border: none;
+  background-color: white;
+}
+
+.nav-link button:hover{
+  background-color: rgb(96, 96, 214);
+}
