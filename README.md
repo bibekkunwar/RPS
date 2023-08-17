@@ -1,5 +1,9 @@
 # AngularSmallApp
 
+This project is hosted on netlify.
+https://e-rps.netlify.app/home
+copy the above url to view the site
+
 Download the code and run using npm run start if you have installed npm.
 Oherwise, try ng serve
 
